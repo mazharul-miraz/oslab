@@ -1,0 +1,43 @@
+Python Developers
+
+Sutherland is seeking a reliable and detail-oriented person to join us as Python Developers. We are a group of driven and hard-working individuals. If you are looking to build a fulfilling career and are confident you have the skills and experience to help us succeed, we want to work with you!
+
+Our Python Developers Get To
+
+Effective: Write effective, scalable code.
+
+Responsible: To Develop back-end components to improve responsiveness and overall performance. Coordinate with internal teams to understand user requirements and provide technical solutions.
+
+Technical Skills: To Integrate user-facing elements into applications. Test and debug programs. Improve functionality of existing systems. Implement security and data protection solutions.
+
+Proactive: Assess and prioritize feature requests.
+
+Qualifications
+
+Our most successful candidates have:
+
+    Minimum 2 to 5 years’ experience working in Python.
+    Worked on image processing.
+    Good knowledge on ML & deep learning concepts
+    Working experience on ML & Tensorflow
+    Expert in Python, with knowledge of at least one Python web framework such as Django, Flask, etc. depending on your technology stack
+    Able to integrate multiple data sources and databases into one system
+    Understanding of the threading limitations of Python, and multi-process architecture
+    Basic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3
+    Understanding of accessibility and security compliance depending on the specific project
+    Knowledge of user authentication and authorization between multiple systems, servers, and environments
+    Understanding of fundamental design principles behind a scalable application
+    Familiarity with event-driven programming in Python
+    Understanding of the differences between multiple delivery platforms, such as mobile vs desktop, and optimizing output to match the specific platform
+    Able to create database schemas that represent and support business processes
+    Strong unit test and debugging skills
+    Proficient understanding of code versioning tools such as Git, Mercurial or SVN
+    Make sure to mention other frameworks, libraries, or any other technology related to your development stack
+    Skill in MS SQL Server.
+    Strong in RDBMS.
+    Experience in working with No SQL DB/MongoDB is preferable.
+    Building server-side logic that powers our APIs, in effect deploying machine learning models in a production system that can scale to billions of API calls.
+    Agile Scrum & TFS knowledge is preferable to have.
+    Integration of user-facing elements developed by front-end developers with server-side logic.
+    Implementation of security and data protection.
+
