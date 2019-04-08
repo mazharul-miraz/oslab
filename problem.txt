@@ -11,3 +11,7 @@ For a Fixed priority preemptive Scheduling (Queue1), the Priority 0 is highest p
 Consider:
  1. Queue 2 will be processed after Queue 1 becomes empty.
 2. Priority of Queue 2 has lower priority than in Queue 1.
+
+git remote add origin git@github.com:mazharul-miraz/codebin.git
+
+git push -u origin master
