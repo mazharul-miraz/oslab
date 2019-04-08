@@ -36,4 +36,31 @@ int main()
           wt+=tm-at[count]-bt[count];
           trnarndtm+=tm-at[count];
           flag=0;
-        }
+       }
+if(count==n-1)
+           count=0;
+        else if(at[count+1]<=tm)
+           count++;
+        else
+           count=0;
+     }
+     printf("\nAverage Waiting Tm= %f\n",wt*1.0/n);
+     printf("Avg Turnaround Tm = %f",trnarndtm*1.0/n);
+     return 0;
+ }
+	            dist+= absolute(last-curr);
+	            printf("[%d]",absolute(last-curr) );
+	            last = curr;
+	        }
+	        for(i=s_index; i<len; i++)
+		{
+	            printf(", %4d",qu[i]);
+	            curr = qu[i];
+	            dist+= absolute(last-curr);
+	            printf("[%d]", absolute(last-curr) );
+	            last = curr;
+	        }
+	    }
+  printf("\nDistance : %d\n",dist);
+      	    return 0*printf("\nSUCCESSFUL EXIT\n");
+      	}
