@@ -60,19 +60,3 @@
 		{
 	            printf(", %4d",qu[i]);
 	            curr = qu[i];
-	            dist+= absolute(last-curr);
-	            printf("[%d]",absolute(last-curr) );
-	            last = curr;
-	        }
-	        for(i=s_index; i<len; i++)
-		{
-	            printf(", %4d",qu[i]);
-	            curr = qu[i];
-	            dist+= absolute(last-curr);
-	            printf("[%d]", absolute(last-curr) );
-	            last = curr;
-	        }
-	    }
-  printf("\nDistance : %d\n",dist);
-      	    return 0*printf("\nSUCCESSFUL EXIT\n");
-      	}
