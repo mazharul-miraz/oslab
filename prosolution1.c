@@ -10,7 +10,7 @@
         {
 	   return ( *(int*)a - *(int*)b );
 	}
-  
+
 	int main()
         {
 	    int qu[] = {86, 1470, 913, 1774, 948, 1509, 1022, 1750, 130};
@@ -73,3 +73,6 @@
 	            last = curr;
 	        }
 	    }
+  printf("\nDistance : %d\n",dist);
+      	    return 0*printf("\nSUCCESSFUL EXIT\n");
+      	}
